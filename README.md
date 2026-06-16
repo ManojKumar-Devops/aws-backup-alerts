@@ -21,7 +21,7 @@ Refer:
 
 ## Documentation
 
-- [Architecture Guide](docs/AWS-Backup-Alert-Architecture.md)
+- <img src="diagrams/backup-alert-architecture.png" width="800">
 - [Deployment Guide](docs/Deployment-Guide.md)
 - [Operational Runbook](docs/Operational-Runbook.md)
 - [Troubleshooting Guide](docs/Troubleshooting-Guide.md)
