@@ -54,16 +54,16 @@ aws sts get-caller-identity
 Update the following values in `app.py`.
 
 ```python
-MANAGEMENT_ACCOUNT_ID = "166696137907"
+MANAGEMENT_ACCOUNT_ID = "12345678901"
 
 MEMBER_ACCOUNT_IDS = [
-    "963506478112",
-    "750342886715",
-    "379133109529",
-    "372653297596",
-    "986835953022",
-    "954719641350",
-    "504710310250"
+    "***********",
+    "***********",
+    "***********",
+    "***********",
+    "***********",
+    "***********",
+    "***********"
 ]
 
 AWS_REGION = "eu-west-1"
